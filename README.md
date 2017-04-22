@@ -5,6 +5,6 @@ GDP growth over the past 3 and a half decades is varied among different countrie
 
 (Hover over Country in the map or the bar charts to see the GDP Trend for that country.)
 
-<iframe src="https://public.tableau.com/views/GDP_162/Dashboard1?:embed=y&:display_count=yes:showVizHome=no" width="1100" height="1050" seamless frameborder="0" scrolling="no"></iframe>
+<iframe src="https://public.tableau.com/views/GDP_162/Dashboard1?:embed=y&:display_count=yes:showVizHome=no" width="1000" height="955" seamless frameborder="0" scrolling="no"></iframe>
 
 
