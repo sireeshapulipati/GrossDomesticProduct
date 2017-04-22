@@ -8,7 +8,3 @@ GDP growth over the past 3 and a half decades is varied among different countrie
 <iframe src="https://public.tableau.com/views/GDP_162/Dashboard1?:embed=y&:display_count=yes:showVizHome=no" width="1100" height="1050" seamless frameborder="0" scrolling="no"></iframe>
 
 
-
-Link to live site: https://sireeshapulipati.github.io/GrossDomesticProduct
-
-Link to Tableau Public: https://public.tableau.com/views/GDP_162/Dashboard1
